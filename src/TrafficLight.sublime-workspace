@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"c"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"print",
+				"print_top"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"normal",
+				"normalize_dt"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"word",
+				"word"
+			],
+			[
+				"sep",
+				"seperated_lines"
+			],
+			[
+				"wordlist",
+				"wordlist_lem"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"bn",
+				"bnumErr"
+			],
+			[
+				"q",
+				"qnumErr"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"mediav",
+				"mediav-base"
+			],
+			[
+				"data",
+				"data-val"
+			],
+			[
+				"csv",
+				"csv_output"
+			],
+			[
+				"lyrics",
+				"lyrics_dict"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":wq",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"compare",
+				"Diffy Compare"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"compa",
+				"Diffy Compare"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"comp",
+				"Diffy Compare"
+			],
+			[
+				"com",
+				"Diffy Compare"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"DIFF",
+				"Diffy Compare"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format and Sort JSON"
+			]
+		],
+		"width": 268.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"print 'A\"",
+			"print",
+			"list",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/james/Desktop/NoteVibes/udacity.txt",
+		"/Users/james/Desktop/NoteVibes/Udacity 1-118",
+		"/Users/james/PycharmProjects/MyPersonalBlog/blogpost.html",
+		"/Users/james/Desktop/vocabGBKCRLF.txt",
+		"/Users/james/PycharmProjects/FSND/projects/02_trivia_api/starter/frontend/src/components/QuestionView.js",
+		"/Users/james/PycharmProjects/FSND2/FSND/projects/01_fyyur/starter_code/templates/forms/edit_artist.html",
+		"/Users/james/PycharmProjects/FSND2/FSND/projects/01_fyyur/starter_code/templates/forms/new_artist.html",
+		"/Users/james/Desktop/emacs.bas",
+		"/Users/james/Desktop/Dropbox/vim.md",
+		"/Users/james/Desktop/ps",
+		"/Users/james/Desktop/cse.html",
+		"/Users/james/Desktop/youdao/principles.py",
+		"/Users/james/Desktop/Programming Languages Coursera/hw5/hw4combined.rkt",
+		"/Users/james/Desktop/Programming Languages Coursera/hw5/practice.rkt",
+		"/Users/james/Desktop/temp/newfinal.txt",
+		"/Users/james/Desktop/sml.json",
+		"/Users/james/Desktop/PL notes.txt",
+		"/Users/james/Desktop/错题本-Java.txt",
+		"/Users/james/Desktop/temp/mdbg.py",
+		"/Users/james/Desktop/temp/mand",
+		"/Users/james/Desktop/temp/chinese",
+		"/Users/james/Desktop/chinese",
+		"/Users/james/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/10bdc0456ad3af0250ee7a0fa122609c/Message/MessageTemp/7038c4cda35ec3b6ae85f7236df80f5d/File/global_wordfreq.release_UTF-8.txt",
+		"/Users/james/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/10bdc0456ad3af0250ee7a0fa122609c/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/Mandarin__Mandarin readings for characters.txt",
+		"/Users/james/Desktop/ecdict/tempor",
+		"/Users/james/Desktop/ecdict/t2.txt",
+		"/Users/james/Desktop/GRE 作文连接词",
+		"/Users/james/Desktop/GRE argument",
+		"/Users/james/Desktop/business vs responsibilites",
+		"/Users/james/Desktop/According to the owner of Moviews Galore, their vi",
+		"/Users/james/Desktop/teaching methods",
+		"/Users/james/Desktop/Tertia",
+		"/Users/james/Desktop/According to the manager, WWAC radio station shoul",
+		"/Users/james/Desktop/restriction on science",
+		"/Users/james/Desktop/housing price",
+		"/Users/james/Desktop/interest vs jobs",
+		"/Users/james/Desktop/imagination",
+		"/Users/james/Desktop/political leaders",
+		"/Users/james/Desktop/a variety of courses",
+		"/Users/james/Desktop/a variety of course",
+		"/Users/james/Desktop/tech vs human interaction",
+		"/Users/james/Desktop/phrasal verbs",
+		"/Users/james/Desktop/GRE-Inclusive.txt",
+		"/Users/james/Desktop/temp",
+		"/Users/james/Desktop/temp2",
+		"/Users/james/Desktop/ydef.py",
+		"/Users/james/Desktop/toefl/speaking_prep/speaking",
+		"/Users/james/Desktop/movies and television",
+		"/Users/james/Desktop/tell the truth? 7-4",
+		"/Users/james/Desktop/VA-quiz",
+		"/Users/james/Desktop/Speaking template",
+		"/Users/james/Desktop/speaking",
+		"/Users/james/Desktop/sample - send human being to Mars",
+		"/Users/james/Desktop/sample - sending people to an asteroid",
+		"/Users/james/Desktop/sending humans to Mars",
+		"/Users/james/Desktop/asteroid colonization",
+		"/Users/james/Desktop/boss - in 30 mins unfinished",
+		"/Users/james/Desktop/restaurant",
+		"/Users/james/Desktop/teacher or not",
+		"/Users/james/Desktop/luck",
+		"/Users/james/Desktop/building parks",
+		"/Users/james/Desktop/advanced education",
+		"/Users/james/Desktop/chris talk",
+		"/Users/james/Desktop/schedule with Chris",
+		"/Users/james/Desktop/Template",
+		"/Users/james/Desktop/essays/to solve problems",
+		"/Users/james/Desktop/travel with a companion",
+		"/Users/james/Desktop/327words_toefl",
+		"/Users/james/Desktop/big cities",
+		"/Users/james/Desktop/longevity",
+		"/Users/james/Desktop/playing sports",
+		"/Users/james/Desktop/toeflsentences",
+		"/Users/james/Desktop/number of cars",
+		"/Users/james/Desktop/Zhao Family",
+		"/Users/james/Desktop/ecdict/config_cloze/new_words for baldur's gate.txt",
+		"/Users/james/Desktop/Knowing People through Books and Moviews",
+		"/Users/james/Desktop/On Spending Money.txt",
+		"/Users/james/Desktop/TOEFL-1180",
+		"/Users/james/Desktop/wanted_flipped",
+		"/Users/james/Desktop/import.txt",
+		"/Users/james/Desktop/psum1b.c",
+		"/Users/james/Desktop/main.c",
+		"/Users/james/Desktop/psum1a.c",
+		"/Users/james/Desktop/CSAPP/sim/bubble_sort.ys",
+		"/Users/james/Desktop/the-lord-of-the-rings-the-fellowship-of-the-ring-yify-english.srt",
+		"/Users/james/Desktop/the-lord-of-the-rings-the-fellowship-of-the-ring-",
+		"/Users/james/Desktop/ecdict/panel.py",
+		"/Users/james/Desktop/ecdict/config_cloze/Life of Pi.txt",
+		"/Users/james/Desktop/ecdict/tcurses.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/curses/__init__.py",
+		"/Users/james/Desktop/txt/UTF8 Cln Flipped.txt",
+		"/Users/james/Desktop/txt/UTF8 Cln Flipped.txt28-190147.txt",
+		"/Users/james/Desktop/TxT/A Thousand Splendid Suns Khaled.Hosseini.txt28-175804.txt",
+		"/Users/james/Desktop/ECDICT/myvocab.txt",
+		"/Users/james/Desktop/TxT/A Thousand Splendid Suns Khaled.Hosseini.txt28-173838.txt",
+		"/Users/james/Desktop/e_lemma.txt",
+		"/Users/james/Desktop/BNC_AllWords.txt",
+		"/Users/james/Desktop/ECDICT/stardict.py",
+		"/Users/james/Desktop/ECDICT/wordfrecheck.py",
+		"/Users/james/Desktop/ECDICT/nltk_luoke.py",
+		"/Users/james/Desktop/ECDICT/wcnltkclass.py",
+		"/Users/james/Desktop/flipped原版小说.txt",
+		"/Users/james/Desktop/Flipped（英文版）1zqjb.txt",
+		"/Users/james/Desktop/Flipped（怦然心动原著小说）.txt",
+		"/Users/james/Desktop/ECDICT/19-152441.txt",
+		"/Users/james/Desktop/ECDICT/test_output.txt",
+		"/Users/james/Desktop/ECDICT/19-151802.txt",
+		"/Users/james/Desktop/A Thousand Splendid Suns Khaled.Hosseini.txt",
+		"/Users/james/Desktop/test.txt",
+		"/Users/james/Desktop/ATSS.txt",
+		"/Users/james/Desktop/A Thousand Splendid Suns 灿烂千阳.txt",
+		"/Users/james/Desktop/ECDICT/wordcompound.py",
+		"/Users/james/Desktop/ECDICT/wcclass.py",
+		"/Users/james/Desktop/lemma/lemma.py",
+		"/Users/james/Desktop/Luoke18/luoke3py.py",
+		"/Users/james/Desktop/nltktest.py",
+		"/Users/james/Desktop/BooKnowledge.txt",
+		"/Users/james/Desktop/Life of Pi_output prev.txt",
+		"/Users/james/Desktop/Life of Pi.txt",
+		"/Users/james/Desktop/To Kill A Mockingbird.txt",
+		"/Users/james/Desktop/TCPL/outputcountword.txt",
+		"/Users/james/Desktop/TCPL/output.txt",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctype.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ctype.h",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include/stdint.h",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include/varargs.h",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include/vecintrin.h"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "TrafficLight.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/docker-demo/readsite.php"
+			],
+			[
+				"com",
+				"http://af.dgyzf.com.cn/zyx/ttjt/zxlm/z05/?cid=i7-d"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

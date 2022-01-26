@@ -1,0 +1,3 @@
+/Users/james/Desktop/Udacity-C++/chapter4/Concurrent-Traffic-Simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/james/Desktop/Udacity-C++/chapter4/Concurrent-Traffic-Simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/james/Desktop/Udacity-C++/chapter4/Concurrent-Traffic-Simulation/cmake-build-debug/CMakeFiles/traffic_simulation.dir
